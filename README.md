@@ -1,4 +1,4 @@
-# <font color= "blue" > ContactForm </font>
+# ContactForm
 ### お問い合わせフォーム
 
 <img width="1247" alt="ContactForm" src="https://user-images.githubusercontent.com/127412829/231118940-84387617-fa5d-47e4-aba3-9fca6a1d9127.png">
